@@ -1,11 +1,11 @@
 body{
   background-color: #ededc1;
+  background-image: url("IMG/hatterkocka.png");
   background-size: 70px 70px;
   background-repeat: repeat-y;
   background-position: right top;
   color: #443502;
   padding: 15px 95px 15px 15px;
-  background-image: url("IMG/hatterkocka.png");
 }
 
 #cimkep{
